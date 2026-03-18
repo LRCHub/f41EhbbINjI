@@ -1,0 +1,129 @@
+{
+  "version": 1,
+  "base_track": "Thunderous",
+  "base_artist": "Stray Kids",
+  "createdAt": "2026-03-18T06:52:14.795225Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ソリクン (Thunderous) -Japanese ver.-[bts-music.ir]",
+      "artist": "Stray Kids",
+      "has_synced": true,
+      "path": "select/01_ソリクン_(Thunderous)_-Japanese_ver.-[bts-music.ir]_Stray_Kids.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Thunderous",
+      "artist": "Borknagar",
+      "has_synced": true,
+      "path": "select/02_Thunderous_Borknagar.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Thunderous",
+      "artist": "Stray Kids",
+      "has_synced": true,
+      "path": "select/03_Thunderous_Stray_Kids.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "소리꾼 Thunderous",
+      "artist": "Stray Kids",
+      "has_synced": true,
+      "path": "select/04_소리꾼_Thunderous_Stray_Kids.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Thunderous",
+      "artist": "Thundermother",
+      "has_synced": false,
+      "path": "select/05_Thunderous_Thundermother.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Thunderous",
+      "artist": "Stray Kids",
+      "has_synced": true,
+      "path": "select/06_Thunderous_Stray_Kids.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Thunderous -Japanese ver.-",
+      "artist": "Stray Kids",
+      "has_synced": false,
+      "path": "select/07_Thunderous_-Japanese_ver.-_Stray_Kids.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "A Thunderous Consequence",
+      "artist": "Immolation",
+      "has_synced": true,
+      "path": "select/08_A_Thunderous_Consequence_Immolation.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Thunderous (Japanese version)",
+      "artist": "Stray Kids",
+      "has_synced": true,
+      "path": "select/09_Thunderous_(Japanese_version)_Stray_Kids.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Thunderous",
+      "artist": "Stray Kids (스트레이 키즈)",
+      "has_synced": true,
+      "path": "select/10_Thunderous_Stray_Kids_(스트레이_키즈).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Thunderous",
+      "artist": "Stray Kids",
+      "has_synced": true,
+      "path": "select/11_Thunderous_Stray_Kids.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Thunderous",
+      "artist": "Stray Kids",
+      "has_synced": true,
+      "path": "select/12_Thunderous_Stray_Kids.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Clockwork With Thunderous Hooves",
+      "artist": "Gigan",
+      "has_synced": false,
+      "path": "select/13_Clockwork_With_Thunderous_Hooves_Gigan.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Thunderous",
+      "artist": "Stray Kids",
+      "has_synced": false,
+      "path": "select/pl_01_Thunderous_Stray_Kids.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Thunderous",
+      "artist": "Stray Kids",
+      "has_synced": true,
+      "path": "select/localdb_01_Thunderous_Stray_Kids.lrc",
+      "repo_name": "Koi6AZyT_HU"
+    }
+  ]
+}
